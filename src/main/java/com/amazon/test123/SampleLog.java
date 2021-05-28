@@ -11,6 +11,7 @@ public class SampleLog {
 		Logger logger = LogManager.getLogger(SampleLog.class);
 		
 		logger.info("Hi the weather is too good");
+		logger.info("Git it Great");
 	}
 
 }
